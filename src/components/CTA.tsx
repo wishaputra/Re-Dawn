@@ -31,7 +31,7 @@ export default function CTA() {
         </motion.p>
         <motion.div variants={fadeUp} custom={2} className="mt-10">
           <a
-            href="https://discord.gg/your-invite"
+            href="https://discord.gg/JxrG7RSpnM"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-accent hover:bg-accent-hover text-white font-semibold px-10 py-5 rounded-xl text-lg transition-all hover:scale-105 shadow-xl shadow-accent/25"

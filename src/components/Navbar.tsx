@@ -19,7 +19,7 @@ export default function Navbar() {
           </a>
         </div>
         <a
-          href="https://discord.gg/your-invite"
+          href="https://discord.gg/JxrG7RSpnM"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-accent hover:bg-accent-hover text-white text-sm font-medium px-4 py-2 rounded-lg transition-colors"

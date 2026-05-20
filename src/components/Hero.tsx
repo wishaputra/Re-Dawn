@@ -44,7 +44,7 @@ export default function Hero() {
           className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4"
         >
           <a
-            href="https://discord.gg/your-invite"
+            href="https://discord.gg/JxrG7RSpnM"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-accent hover:bg-accent-hover text-white font-semibold px-8 py-4 rounded-xl text-lg transition-all hover:scale-105 shadow-lg shadow-accent/20"

@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Re:Dawn — VTuber Community",
+  title: "re:DAWN — VTuber Community",
   description:
-    "Join Re:Dawn, a futuristic VTuber Discord community. Livestreams, gaming sessions, events, and more.",
+    "Join re:DAWN, a futuristic VTuber Discord community. Livestreams, gaming sessions, events, and more.",
 };
 
 export default function RootLayout({

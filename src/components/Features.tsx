@@ -34,7 +34,7 @@ export default function Features() {
             custom={2}
             className="mt-4 text-muted text-lg max-w-2xl mx-auto"
           >
-            From live entertainment to tight-knit community bonds, Re:Dawn has
+            From live entertainment to tight-knit community bonds, re:DAWN has
             it all.
           </motion.p>
         </motion.div>

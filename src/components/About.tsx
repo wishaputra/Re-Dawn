@@ -35,7 +35,7 @@ export default function About() {
             custom={2}
             className="mt-6 text-muted text-lg leading-relaxed"
           >
-            Re:Dawn is more than a Discord server — it&apos;s a movement. We
+            re:DAWN is more than a Discord server — it&apos;s a movement. We
             bring together VTuber enthusiasts, content creators, gamers, and
             digital artists under one roof. Our mission is to foster a vibrant,
             inclusive community where creativity thrives and every voice matters.

@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
         <div className="flex items-center gap-2">
           <span className="text-lg font-bold">
-            Re:<span className="text-accent">Dawn</span>
+            re:<span className="text-accent">DAWN</span>
           </span>
           <span className="text-muted text-sm">
             © {new Date().getFullYear()} All rights reserved.

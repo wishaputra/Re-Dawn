@@ -52,7 +52,7 @@ export const founders = [
     role: "Guild Master",
     image: "/founders/yoake.png",
     description:
-      "Visionary leader and founder of Re:Dawn. Setting the course for the community since day one.",
+      "Visionary leader and founder of re:DAWN. Setting the course for the community since day one.",
     socials: {
       youtube: "https://www.youtube.com/@Kotomineyoake",
       twitter: "https://x.com/Kotomineyoake",

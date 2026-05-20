@@ -25,7 +25,7 @@ export default function Hero() {
           className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight leading-tight"
         >
           Welcome to{" "}
-          <span className="text-accent">Re:Dawn</span>
+          <span className="text-accent">re:DAWN</span>
         </motion.h1>
 
         <motion.p

@@ -26,7 +26,7 @@ export default function CTA() {
           custom={1}
           className="mt-6 text-muted text-lg max-w-xl mx-auto"
         >
-          Step into Re:Dawn and become part of a community that&apos;s
+          Step into re:DAWN and become part of a community that&apos;s
           redefining VTuber culture. Your new dawn starts here.
         </motion.p>
         <motion.div variants={fadeUp} custom={2} className="mt-10">

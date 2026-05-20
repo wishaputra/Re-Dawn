@@ -18,13 +18,6 @@ export default function Hero() {
         animate="visible"
         variants={stagger}
       >
-        <motion.div
-          variants={fadeUp}
-          custom={0}
-          className="inline-block mb-6 px-4 py-1.5 rounded-full border border-accent/30 bg-accent/5 text-accent text-sm font-medium"
-        >
-          ✦ VTuber Community ✦
-        </motion.div>
 
         <motion.h1
           variants={fadeUp}
